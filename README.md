@@ -7,15 +7,25 @@ Repositório para armazenar resumos sobre Git e GitHub do curso de versionamento
 - [Documentaçao GitHub](https://github.com/)
 ## 😮Resumo das Aulas
 
-| Aulas | Resumo|
+| Descrição | Comandos |
 |---------|-----------|
-Gravando Alterações no Repositório Local | git init
-Voltando pasta anterior | cd ..
-Abrindo pasta | cd "nome da pasta"
-Criando nova pasta | mkdir "nome da nova pasta"
-Ler todos os arquivos da pasta | Ls
-Clonar pasta do GitHub | git clone "nome da pasta
-Incluir pasta no GitHub | git remote add
+Voltando pasta anterior | ```$ cd ..```
+Abrindo pasta | ```$ cd "nome da pasta"```
+Criando nova pasta | ```$ mkdir "nome da nova pasta"```
+Listar conteúdos da pasta | ```$ Ls```
+
+| Descrição     | Comandos do Git     |
+|----------|----------------|
+| Inicializa um repositório Git                | `git init`                                 |
+| Clona um repositório Git existente           | `git clone https://github.com/usuario/repositorio.git` |
+| Adiciona alterações ao staging area          | `git add arquivo.txt`                      |
+| Grava as alterações como um novo commit      | `git commit -m "Mensagem do commit"`       |
+| Mostra o estado atual do repositório         | `git status`                               |
+| Puxa e integra as alterações mais recentes   | `git pull origin main`                     |
+| Envia commits locais para o repositório remoto| `git push origin main`                   |
+| Lista, cria ou deleta branches               | `git branch`                               |
+| Altera o branch ou restaura arquivos         | `git checkout meu-branch`                  |
+| Mescla alterações de um branch para outro    | `git merge outro-branch`                   |
 
 
 ## 🔍 Referências
