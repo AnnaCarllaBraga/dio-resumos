@@ -19,5 +19,5 @@ Incluir pasta no GitHub | git remote add
 
 
 ## 🔍 Referências
-- https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/coding-the-future-sysvision-data-analytics&tab=undefined&moduleId=undefined
+- [Aula Explicativa](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/coding-the-future-sysvision-data-analytics&tab=undefined&moduleId=undefined)
   
