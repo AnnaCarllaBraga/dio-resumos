@@ -16,7 +16,7 @@ Listar conteúdos da pasta | ```$ Ls```
 
 | Descrição     | Comandos do Git     |
 |----------|----------------|
-| Inicializa um repositório Git                | `git init`                                 |
+| Inicializa um repositório Git                | `git init`                  |
 | Clona um repositório Git existente           | `git clone https://github.com/usuario/repositorio.git` |
 | Adiciona alterações ao staging area          | `git add arquivo.txt`                      |
 | Grava as alterações como um novo commit      | `git commit -m "Mensagem do commit"`       |
